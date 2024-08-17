@@ -1,7 +1,8 @@
 # CS:GO Cheat by Tobias Schoch
 
 ## Description
-This repository contains the source code for a CS:GO cheat developed. 
+This repository contains the source code for a CS:GO cheat developed including the memory overwrites.
+It is not detected right now by CS:GO, neither detected by Windows Defender.
 It includes features like a skin changer, wallhack, bunny hop, no flash and radar enemy spotting.
 The cheat was previously commercial on [csgocheats.de](https://csgocheats.de/) distributed by me.
 
